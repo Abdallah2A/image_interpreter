@@ -18,10 +18,9 @@ A real-time image captioning system for generating descriptive captions from ima
 6. [API (FastAPI)](#api-fastapi)
 7. [Docker](#docker)
 8. [Evaluation Metrics](#evaluation-metrics)
-9. [How the Model Works](#how-the-model-works)
-10. [Setup & Usage](#setup--usage)
-11. [License](#license)
-12. [References](#references)
+9. [Setup & Usage](#setup--usage)
+10. [License](#license)
+11. [References](#references)
 ---
 
 ## Overview
