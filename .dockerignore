@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+.git
+.zen
+.venv
+data/
+steps/
+constants.py
+.dockerignore
+pipeline.py
+models.py
