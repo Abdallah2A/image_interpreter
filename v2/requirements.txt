@@ -1,0 +1,7 @@
+torch~=2.5.1+cu124
+fastapi~=0.110.3
+torchvision~=0.20.1+cu124
+pillow~=11.2.1
+transformers~=4.53.1
+zenml~=0.82.1
+matplotlib~=3.10.0
